@@ -1,0 +1,6 @@
+{
+    "conventionalCommits.scopes": [
+        "projectdoc",
+        "project-version",
+    ]
+}
