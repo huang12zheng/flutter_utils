@@ -1,5 +1,5 @@
 name: my_project
-repository: https://github.com/huang12zheng/flutter_utils
+repository: https://github.com/huang12zheng/flutter_utils.git
 packages:
   - packages/**
   - examples/**
